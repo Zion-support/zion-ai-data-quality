@@ -12,3 +12,6 @@ Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 - [Zion AI Knowledge Graph](https://ziontechgroup.com/zion-ai-knowledge-graph/)
 - [Zion AI Observability](https://ziontechgroup.com/zion-ai-observability/)
 - [Zion AI Incident Commander](https://ziontechgroup.com/zion-ai-incident-commander/)
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
