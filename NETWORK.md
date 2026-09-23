@@ -1,10 +1,17 @@
-# Zion AI Data Quality
+# Zion AI Data Quality — Zion App Network
 
-Pipeline monitoring and anomaly detection.
+Zion AI Data Quality — pipeline monitoring and anomaly detection. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) · [ai-data-validator](https://github.com/Zion-support/ai-data-validator) · [zion-ai-data-contract-enforcer](https://github.com/Zion-support/zion-ai-data-contract-enforcer) · [data-pipeline-doctor](https://github.com/Zion-support/data-pipeline-doctor) · [zion-data-readiness-audit](https://github.com/Zion-support/zion-data-readiness-audit)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-data-quality/](https://ziontechgroup.com/zion-ai-data-quality/)
+- 🏠 Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Data Quality Sentinel](https://github.com/Zion-support/data-quality-sentinel) — continuous data quality monitoring
+- [Zion AI Data Contract Enforcer](https://github.com/Zion-support/zion-ai-data-contract-enforcer) — schema contracts with enforcement
+- [AI Data Validator](https://github.com/Zion-support/ai-data-validator) — AI data validation
+- [Zion AI Data Analyst](https://github.com/Zion-support/zion-ai-data-analyst) — natural-language analytics
+- [Data Pipeline Doctor](https://github.com/Zion-support/data-pipeline-doctor) — guided pipeline troubleshooting
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
